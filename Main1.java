@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Main1 {
+public class WeeklyMealBudget { 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String[] days = {"Monday", "Tuesday", "Wednesday",
