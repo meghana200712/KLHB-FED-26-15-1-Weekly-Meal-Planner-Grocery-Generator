@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Main2 {
+public class LeftoverMealPlanner {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
